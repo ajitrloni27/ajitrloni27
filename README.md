@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ajit Loni</h1>
 
-<!--
-**ajitrloni27/ajitrloni27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science Engineering Student  
+💻 Java Developer | Frontend Learner | DSA Enthusiast  
+🚀 Looking for Internship Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+- Java
+- Data Structures & Algorithms
+- HTML CSS JavaScript
+- Git & GitHub
+
+---
+
+## 📌 Projects
+- 🌾 Farmer to Farmer Data Exchange System
+- ✅ To-Do List Web App
+- 🧑‍💻 Personal Portfolio Website
+- 🎮 Shadowfox Java Project
+
+---
+
+## 📫 Contact Me
+- Email: ajitrloni27@gmail.com
+- GitHub: https://github.com/ajitrloni27
+- LinkedIn: (add link)
+
+---
+
+⭐ Always learning and building real projects
