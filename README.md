@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajit Loni</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Java+Developer;DSA+Learner;Open+Source+Enthusiast;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=FullStack+Developer;Java+Developer;DSA+Learner;Open+Source+Enthusiast;Future+Software+Engineer" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 🎓 Information Science Engineering Student
 💻 Passionate about Web Development & Java
 📈 Currently learning DSA and building real projects
-🎯 Goal: Get Internship in Top Product Company
+
 
 ---
 
