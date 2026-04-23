@@ -1,54 +1,61 @@
 <h1 align="center">Hi 👋, I'm Ajit Loni</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=FullStack+Developer;Java+Developer;DSA+Learner;Open+Source+Enthusiast;Future+Software+Engineer" />
-</p>
+<h3 align="center">🚀 Information Science Engineering Student | Web Developer | Java Enthusiast</h3>
 
 ---
 
-
-## 🚀 About Me
-
-🎓 Information Science Engineering Student
-💻 Passionate about Web Development & Java
-📈 Currently learning DSA and building real projects
-
-
----
-
-## 🛠️ Skills
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode" />
-</p>
+## 👨‍💻 About Me
+- 🎓 2nd Year Information Science Engineering Student  
+- 💻 Passionate about **Web Development & Java**  
+- 📈 Currently learning **Data Structures & Algorithms (DSA)**  
+- 🔨 Focused on building strong problem-solving skills  
+- 🎯 Goal: Secure a **top internship**
 
 ---
 
-## 📌 My Projects
+## 🛠️ Tech Stack
 
-✅ Farmer to Farmer Data Exchange System
-✅ To-Do List Web Application
-✅ Personal Portfolio Website
-✅ Shadowfox Java Project
+### 💻 Languages
+- Java ☕  
+- JavaScript ⚡  
+- HTML5 🌐  
+- CSS3 🎨  
+
+### ⚙️ Tools & Technologies
+- Git & GitHub 🐙  
+- VS Code 🧑‍💻  
+- Node.js 🌱 (Basics)  
+- REST APIs 🔗  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ajitrloni27&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajitrloni27&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitrloni27&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitrloni27&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-📧 Email: [ajitrloni27@gmail.com](mailto:ajitrloni27@gmail.com)
+## 🌱 Currently Learning
+- 📚 Data Structures & Algorithms  
+- 🌐 Full Stack Development  
+- ⚡ Backend Development  
 
 ---
 
-⭐ “Consistency + Projects + DSA = Internship”
+## 📫 Connect With Me
+- 📧 Email: **ajitrloni27@gmail.com**
+
+---
+
+## 💡 Motto
+> ⭐ Consistency + Projects + DSA = Internship
+
+---
+
+## 🚀 Fun Fact
+- I believe in **learning by building real-world skills consistently** 💡
