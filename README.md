@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ajit Loni</h1>
-<h3 align="center">🚀 Information Science Engineering Student | Web Developer | Java Enthusiast</h3>
+
+<h3 align="center">
+🚀 Information Science Engineering Student | Web Developer | Java Enthusiast
+</h3>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Java+Programmer;DSA+Learner;Future+Software+Engineer" />
+</p>
 
 ---
 
@@ -7,35 +16,26 @@
 - 🎓 2nd Year Information Science Engineering Student  
 - 💻 Passionate about **Web Development & Java**  
 - 📈 Currently learning **Data Structures & Algorithms (DSA)**  
-- 🔨 Focused on building strong problem-solving skills  
 - 🎯 Goal: Secure a **top internship**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- Java ☕  
-- JavaScript ⚡  
-- HTML5 🌐  
-- CSS3 🎨  
-
-### ⚙️ Tools & Technologies
-- Git & GitHub 🐙  
-- VS Code 🧑‍💻  
-- Node.js 🌱 (Basics)  
-- REST APIs 🔗  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajitrloni27&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajitrloni27&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitrloni27&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitrloni27&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -57,5 +57,6 @@
 
 ---
 
-## 🚀 Fun Fact
-- I believe in **learning by building real-world skills consistently** 💡
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajitrloni27&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
