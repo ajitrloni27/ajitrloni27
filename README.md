@@ -16,7 +16,7 @@
 - 🎓 2nd Year Information Science Engineering Student  
 - 💻 Passionate about **Web Development & Java**  
 - 📈 Currently learning **Data Structures & Algorithms (DSA)**  
-- 🎯 Goal: Secure a **top internship**
+- 🎯 Goal: Secure a ** internship**
 
 ---
 
