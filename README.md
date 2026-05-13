@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ajit Loni</h1>
+<h1 align="center">Hi 👋, I'm Ajit </h1>
 
 <h3 align="center">
-🚀 Information Science Engineering Student | Web Developer | Java Enthusiast
+🚀 Information Science Engineering Student | Learing Web Developing| Java Enthusiast
 </h3>
 
 ---
@@ -16,7 +16,7 @@
 - 🎓 2nd Year Information Science Engineering Student  
 - 💻 Passionate about **Web Development & Java**  
 - 📈 Currently learning **Data Structures & Algorithms (DSA)**  
-- 🎯 Goal: Secure a ** internship**
+
 
 ---
 
@@ -53,7 +53,7 @@
 ---
 
 ## 💡 Motto
-> ⭐ Consistency + Projects + DSA = Internship
+> ⭐ Consistency + Projects + DSA = Happy 
 
 ---
 
