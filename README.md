@@ -20,6 +20,7 @@
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -41,7 +42,7 @@
 ---
 
 ## 🌱 Currently Learning
-- 📚 Data Structures & Algorithms  
+- 📚 Data Structures and Algorithms  
 - 🌐 Full Stack Development  
 - ⚡ Backend Development  
 
