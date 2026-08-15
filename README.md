@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ajit</h1>
+<h1 align="center">Hey, I'm Ajit</h1>
 
 
-<h3 align="center">
-🚀 Information Science Engineering Student | Learning Web Development
-</h3>
+<h4 align="center">
+Information Science Engineering Student | Learning Web Development
+</h4>
 
 <p align="center">
 </p>
@@ -14,8 +14,7 @@
 
 
 - 🎓 3rd Year Information Science Engineering Student
-- 💻 Passionate about **Java, Web Development & Problem Solving**
-- 🌱 Currently learning **Full Stack Development**
-- 📚 Improving my **Data Structures & Algorithms
+
+
 ---
 </p>
