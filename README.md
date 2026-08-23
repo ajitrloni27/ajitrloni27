@@ -2,7 +2,7 @@
 
 
 <h4 align="center">
-Information Science Engineering Student | Learning Web Development
+Information Science Engineering Student
 </h4>
 
 <p align="center">
