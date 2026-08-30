@@ -13,7 +13,7 @@ Information Science Engineering Student
 ## 👨‍💻 About Me
 
 
-- 🎓 2nd Year Information Science Engineering Student
+- 🎓 3rd Year Information Science Engineering Student
 - 😴 Love to sleep whenever I get the chance
 - ☕ Runs on caffeine and curiosity
 
